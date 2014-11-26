@@ -1,1 +1,16 @@
-exmodule.info.yml
+#substitute "=" for ":"
+name: Example Module
+description: Custom drupal 8 module to test and understand the new "way of drupal"
+package: nimbfire
+core: 8.x
+version: 8.x-0.1
+
+#new type and hidden
+type: module
+hidden: false
+
+#dependencies[] - not used anymore
+#arrays uses spaces as bellow
+#
+#dependencies:
+#  - devel
