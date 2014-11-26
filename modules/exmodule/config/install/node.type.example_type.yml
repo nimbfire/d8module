@@ -1,0 +1,9 @@
+type: example_type
+name: 'Example type'
+description: 'Type de exemplo disponibilizado por <em>exmodule</em>.'
+help: 'Help text to this type'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en
