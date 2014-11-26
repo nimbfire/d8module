@@ -1,0 +1,7 @@
+exmodule.routing.yml:
+  path: /exmodule
+  defaults:
+    _content: \Drupal\exmodule\Controller\HelloController::hello
+    _title: Exmodule Page
+  requirements:
+    _permission: 'access content'
