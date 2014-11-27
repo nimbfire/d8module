@@ -1,7 +1,7 @@
 #substitute "=" for ":"
 name: Example Module
 description: Custom drupal 8 module to test and understand the new "way of drupal"
-package: nimbfire
+package: a_nimbfire
 core: 8.x
 version: 8.x-0.1
 
